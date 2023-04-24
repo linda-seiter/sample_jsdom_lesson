@@ -1,0 +1,7 @@
+/*
+npm i jest --save-dev
+npm i jest-environment-jsdom --save-dev
+*/
+
+
+//issue with jsdom reset: https://stackoverflow.com/questions/42805128/does-jest-reset-the-jsdom-document-after-every-suite-or-test
